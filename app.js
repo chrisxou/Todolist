@@ -2,8 +2,8 @@
 
 const express = require("express");
 const bodyParser = require("body-parser");
-var favicon = require('serve-favicon');
-var path = require('path');
+// var favicon = require('serve-favicon');
+// var path = require('path');
 const date = require(__dirname + "/date.js");
 
 const app = express();
